@@ -1,0 +1,22 @@
+{
+  "name": "typetbackend",
+  "version": "1.0.0",
+  "description": "a different type of fashion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandiv/TypeTBackend.git"
+  },
+  "author": "dandiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandiv/TypeTBackend/issues"
+  },
+  "homepage": "https://github.com/dandiv/TypeTBackend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
